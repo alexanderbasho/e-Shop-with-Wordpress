@@ -1,0 +1,1421 @@
+# Translation of Themes - Ample in Greek
+# This file is distributed under the same license as the Themes - Ample package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-01-07 10:36:01+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: el_GR\n"
+"Project-Id-Version: Themes - Ample\n"
+
+#. Theme Name of the theme
+#: inc/admin/class-ample-admin.php:389 inc/demo-config.php:22
+msgid "Ample"
+msgstr "Ample"
+
+#. Description of the theme
+msgid "Ample is a multipurpose responsive WordPress theme made to help you create a beautiful professional looking site in no time. It has numerous built-in options to give your site the look that you want. Get free support at https://themegrill.com/support-forum/ and check the demo at https://demo.themegrill.com/ample/"
+msgstr "Το Ample είναι ένα WordPress θέμα πολλαπλών χρήσεων που ανταποκρίνεται σε όλιες τις συσκευές που σας βοηθάει να δημιουργήσετε ένα όμορφο επαγγελματικό ιστότοπο σε χρόνο μηδέν. Έχει πολλές ενσωματωμένες επιλογές για να δώσει στον ιστότοπό σας το look που θέλετε. Λάβετε δωρεάν υποστήριξη στο https://themegrill.com/support-forum/ και ελέγξτε το demo στο https://demo.themegrill.com/ample/"
+
+#. translators: 1: plugin name(s).
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:364
+#: inc/tgm-plugin-activation/tgmpa-ample.php:92
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Το παρακάτω προτεινόμενο πρόσθετο είναι ανενεργό: %1$s."
+msgstr[1] "Το ακόλουθα προτεινόμενα πρόσθετα είναι απενεργοποιημένα: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:358
+#: inc/tgm-plugin-activation/tgmpa-ample.php:86
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Το ακόλουθο απαραίτητο πρόσθετο είναι αυτή την στιγμή ανενεργό: %1$s."
+msgstr[1] "Το ακόλουθα απαιτούμενα πρόσθετα είναι απενεργοποιημένα: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:352
+#: inc/tgm-plugin-activation/tgmpa-ample.php:80
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Υπάρχει διαθέσιμη ενημέρωση για το: %1$s."
+msgstr[1] "Υπάρχουν διαθέσιμες ενημερώσεις για τα ακόλουθα πρόσθετα: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:346
+#: inc/tgm-plugin-activation/tgmpa-ample.php:74
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "Το ακόλουθο πρόσθετο πρέπει να ενημερωθεί στην τελευταία του έκδοση για να εξασφαλιστεί η μέγιστη συμβατότητα τους με αυτό το θέμα: %1$s."
+msgstr[1] "Το ακόλουθα πρόσθετα πρέπει να ενημερωθούν στην τελευταία τους έκδοση για να εξασφαλιστεί η μέγιστη συμβατότητα με αυτό το θέμα: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:340
+#: inc/tgm-plugin-activation/tgmpa-ample.php:68
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Αυτό το θέμα προτείνει το παρακάτω πρόσθετο: %1$s."
+msgstr[1] "Αυτό το θέμα προτείνει τα ακόλουθα πρόσθετα: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:334
+#: inc/tgm-plugin-activation/tgmpa-ample.php:62
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Αυτό το θέμα απαιτεί το παρακάτω πρόσθετο: %1$s."
+msgstr[1] "Αυτό το θέμα απαιτεί τα ακόλουθα πρόσθετα: %1$s."
+
+#: inc/related-posts.php:7
+msgid "You May Also Like"
+msgstr "Μπορεί επίσης να σας αρέσει"
+
+#: inc/customizer.php:650
+msgid "Related Posts By Categories"
+msgstr "Σχετικά άρθρα βάσει κατηγοριών"
+
+#: inc/customizer.php:646
+msgid "Related Posts Must Be Shown As:"
+msgstr "Τα σχετικά άρθρα πρέπει να εμφανίζονται ως:"
+
+#: inc/customizer.php:618
+msgid "Related Posts"
+msgstr "Σχετικά άρθρα"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Installing Plugin %1$s (%2$d/%3$d)"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "Όλες οι εγκαταστάσεις έχουν ολοκληρωθεί."
+
+#. translators: 1: plugin name.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr "Το %1$s εγκαταστάθηκε με επιτυχία."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Η διαδικασία εγκατάστασης έχει αρχίσει. Αυτή η διαδικασία μπορεί να διαρκέσει αρκετά σε ορισμένους servers, γι'αυτό παρακαλώ να είστε υπομονετικοί."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Εγκατάσταση και οι ενεργοποίηση πρόσθετου %1$s (%2$d/%3$d)"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "Όλες οι εγκαταστάσεις και οι ενεργοποιήσεις έχουν ολοκληρωθεί."
+
+#. translators: 1: plugin name.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3509
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "Απόκρυψη Λεπτομέρειών"
+
+#. translators: 1: plugin name.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3509
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "Εμφάνιση Λεπτομερειών"
+
+#. translators: 1: plugin name.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "Το %1$s installed and activated successfully."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Η διαδικασία εγκατάστασης και ενεργοποίησης έχει αρχίσει. Αυτή η διαδικασία μπορεί να διαρκέσει αρκετά σε ορισμένους servers, γι'αυτό παρακαλώ να είστε υπομονετικοί."
+
+#. translators: 1: plugin name.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "Η εγκατάσταση του %1$s απέτυχε."
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Παρουσιάστηκε σφάλμα κατά την εγκατάσταση του %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Ενημέρωση Πρόσθετου %1$s (%2$d/%3$d)"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "Η ενεργοποίηση του Πρόσθετου απέτυχε."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "Δεν υπάρχουν διαθέσιμα plugins για να ενεργοποιηθεί αυτή τη στιγμή."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Κανένα πρόσθετο δεν επιλέχθηκε προς ενεργοποίηση. Καμία ενέργεια δεν διεκπεραιώθηκε."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "Κανένα πρόσθετο δεν είναι διαθέσιμο προς ενημέρωση αυτή τη στιγμή."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "Δεν υπάρχουν διαθέσιμα plugins για να εγκατασταθεί αυτή τη στιγμή."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Κανένα πρόσθετο δεν επιλέχθηκε προς ενημέρωση. Καμία ενέργεια δεν διεκπεραιώθηκε."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Κανένα πρόσθετο δεν επιλέχθηκε προς εγκατάσταση. Καμία ενέργεια δεν διεκπεραιώθηκε."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "Ενεργοποίηση"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "Ενημέρωση"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "Εγκατάσταση"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "Μήνυμα αναβάθμισης από τον δημιουργό του πρόσθετου:"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "Ενεργοποίηση %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "Ενημέρωση %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "Εγκατάσταση %2$s"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "Κατάσταση"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "Έκδοση"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "Τύπος"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "Πηγή"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "Πρόσθετο"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "Κανένα πρόσθετο προς εγκατάσταση, ενημέρωση ή ενεργοποίηση."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "Διαθέσιμη έκδοση:"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "Ελάχιστη απαιτούμενη έκδοση:"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "Εγκατεστημένη έκδοση:"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "άγνωστη"
+
+#. translators: 1: number of plugins.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Για ενεργοποίηση <span class=\"count\">(%s)</span>"
+msgstr[1] "Για ενεργοποίηση <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Διαθέσιμη Αναβάθμιση <span class=\"count\">(%s)</span>"
+msgstr[1] "Διαθέσιμη Αναβάθμιση <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Για εγκατάσταση <span class=\"count\">(%s)</span>"
+msgstr[1] "Για εγκατάσταση <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Όλα <span class=\"count\">(%s)</span>"
+msgstr[1] "Όλα <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "Προτείνεται Ενημέρωση"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "Απαιτεί Ενημέρωση"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "Η Απαιτούμενη Ενημέρωση δεν είναι Διαθέσιμη"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "Ενεργό"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "Εγκατεστημένα Αλλά Όχι Ενεργοποιημένα"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "Δεν έχει εγκατασταθεί"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "Προ-εγκατεστημένο"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "Εξωτερική Πηγή"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "Αποθετήριο WordPress"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "Συνιστάται"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "Απαιτείται"
+
+#. translators: %s: version number
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1121
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "και"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "Το απομακρυσμένο πακέτο πρόσθετων αποτελείται από περισσότερα από ένα αρχεία, αλλά τα αρχεία δεν εμπεριέχονται σε φάκελο."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:934
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Παρακαλώ επικοινωνήστε με τον πάροχο του πρόσθετου και ζητήστε του να πακετάρει το πρόσθετο σύμφωνα με τις οδηγίες του WordPress."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "Το απομακρυσμένο πακέτο πρόσθετων δεν περιέχει φάκελο με το επιθυμητό σύντομο όνομα και η μετονομασία δεν επετεύχθη."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "Απαιτείται Ενημέρωση"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Αυτό το plugin θα πρέπει να ενημερωθεί ώστε να είναι συμβατό με το θέμα σας."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:397
+#: inc/tgm-plugin-activation/tgmpa-ample.php:124
+msgid "Please contact the administrator of this site for help."
+msgstr "Παρακαλώ επικοινώνησε με τον διαχειριστή για βοήθεια."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:396
+#: inc/tgm-plugin-activation/tgmpa-ample.php:123
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Υπάρχουν ένα ή περισσότερα απαιτούμενα ή προτεινόμενα πρόσθετα προς εγκατάσταση, ενημέρωση ή ενεργοποίηση."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:395
+#: inc/tgm-plugin-activation/tgmpa-ample.php:122
+msgid "Dismiss this notice"
+msgstr "Αγνοήστε την ειδοποίηση"
+
+#. translators: 1: dashboard link.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:394
+#: inc/tgm-plugin-activation/tgmpa-ample.php:121
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "All plugins installed and activated successfully. %1$s"
+
+#. translators: 1: plugin name.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:392
+#: inc/tgm-plugin-activation/tgmpa-ample.php:119
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Το πρόσθετο δεν ενεργοποιήθηκε. Απαιτείται νεότερη έκδοση του %s για το συγκεκριμένο θέμα. Παρακαλώ ενημερώστε το πρόσθετο."
+
+#. translators: 1: plugin name.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:390
+#: inc/tgm-plugin-activation/tgmpa-ample.php:117
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Δεν εκτελέστηκε καμία ενέργεια. Το πρόσθετο %1$s ήταν ήδη ενεργό."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:388
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2952
+#: inc/tgm-plugin-activation/tgmpa-ample.php:115
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Το ακόλουθο πρόσθετο ενεργοποιήθηκε επιτυχώς:"
+msgstr[1] "Τα ακόλουθα πρόσθετα ενεργοποιήθηκαν επιτυχώς:"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:387
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3159
+#: inc/tgm-plugin-activation/tgmpa-ample.php:114
+msgid "Plugin activated successfully."
+msgstr "Το Πρόσθετο ενεργοποιήθηκε με επιτυχία."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:386
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:827
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2533
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "Επιστροφή στον Πίνακα ελέγχου"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:385
+#: inc/tgm-plugin-activation/tgmpa-ample.php:113
+msgid "Return to Required Plugins Installer"
+msgstr "Return to Required Plugins Installer"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:380
+#: inc/tgm-plugin-activation/tgmpa-ample.php:108
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Ξεκινήσετε ενεργοποίηση του Plugin"
+msgstr[1] "Ξεκινήσετε ενεργοποίηση των Plugins"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:375
+#: inc/tgm-plugin-activation/tgmpa-ample.php:103
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Ξεκινήσετε ενημέρωση του plugin"
+msgstr[1] "Ξεκινήσετε ενημέρωση των plugins"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:370
+#: inc/tgm-plugin-activation/tgmpa-ample.php:98
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Ξεκινήστε την εγκατάσταση του plugin"
+msgstr[1] "Ξεκινήστε την εγκατάσταση των plugins"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:333
+#: inc/tgm-plugin-activation/tgmpa-ample.php:61
+msgid "Something went wrong with the plugin API."
+msgstr "Κάτι πήγε στραβά με το API του πρόσθετου."
+
+#. translators: %s: plugin name.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:332
+#: inc/tgm-plugin-activation/tgmpa-ample.php:60
+msgid "Updating Plugin: %s"
+msgstr "Ενημέρωση Πρόσθετου: %s"
+
+#. translators: %s: plugin name.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:330
+#: inc/tgm-plugin-activation/tgmpa-ample.php:58
+msgid "Installing Plugin: %s"
+msgstr "Εγκατάσταση Plugin %s"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:328
+#: inc/tgm-plugin-activation/tgmpa-ample.php:56
+msgid "Install Plugins"
+msgstr "Εγκατάσταση Plugin"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:327
+#: inc/tgm-plugin-activation/tgmpa-ample.php:55
+msgid "Install Required Plugins"
+msgstr "Εγκατάσταση Απαιτούμενων Plugins"
+
+#: inc/widgets/class-ample-call-to-action-widget.php:41
+#: inc/widgets/class-ample-portfolio-widget.php:48
+msgid "Background Image:"
+msgstr "Εικόνα φόντου:"
+
+#: inc/widgets/class-ample-call-to-action-widget.php:49
+#: inc/widgets/class-ample-portfolio-widget.php:57
+#: inc/widgets/class-ample-service-widget.php:48
+msgid "Select an Image"
+msgstr "Επιλέξτε μια εικόνα"
+
+#: inc/widgets/class-ample-call-to-action-widget.php:49
+#: inc/widgets/class-ample-portfolio-widget.php:57
+#: inc/widgets/class-ample-service-widget.php:48
+msgid "Use image"
+msgstr "Χρήση εικόνας"
+
+#: inc/widgets/class-ample-call-to-action-widget.php:49
+#: inc/widgets/class-ample-portfolio-widget.php:57
+#: inc/widgets/class-ample-service-widget.php:48
+msgid "Choose an image"
+msgstr "Επιλέξτε μία εικόνα"
+
+#: inc/customizer.php:76
+msgid "Switch to new responsive menu."
+msgstr "Μετάβαση σε νέα απαντητική μενού."
+
+#: inc/customizer.php:63
+msgid "Responsive Menu Style"
+msgstr "Ανταποκρίνεται Μενού Στυλ"
+
+#: inc/admin/class-ample-admin.php:513
+msgid "View Pro"
+msgstr "Δείτε την Pro"
+
+#: inc/admin/class-ample-admin.php:507
+msgid "Emails/Priority Support Ticket"
+msgstr "Emails/Προτεραιότητα Εισιτήριο Υποστήριξης"
+
+#: inc/admin/class-ample-admin.php:506
+msgid "Forum"
+msgstr "Φόρουμ"
+
+#: inc/admin/class-ample-admin.php:500
+msgid "Demo Content"
+msgstr "Δείτε το Demo"
+
+#: inc/admin/class-ample-admin.php:495
+msgid "Footer Copyright Editor"
+msgstr "Υποσέλιδο πνευματικά δικαιώματα συντάκτη"
+
+#: inc/admin/class-ample-admin.php:490
+msgid "TG: Pricing Table"
+msgstr "TG: Τιμοκατάλογος"
+
+#: inc/admin/class-ample-admin.php:485
+msgid "TG: Team"
+msgstr "TG: Ομάδα"
+
+#: inc/admin/class-ample-admin.php:480
+msgid "TG: Fun Facts"
+msgstr "TG: Διασκεδαστικά Γεγονότα"
+
+#: inc/admin/class-ample-admin.php:475
+msgid "TG: Our Clients"
+msgstr "TG: Οι Πελάτες μας"
+
+#: inc/admin/class-ample-admin.php:470
+msgid "TG: Testimonial"
+msgstr "TG: Μαρτυρία"
+
+#: inc/admin/class-ample-admin.php:467
+msgid "9"
+msgstr "9"
+
+#: inc/admin/class-ample-admin.php:466
+msgid "4"
+msgstr "4"
+
+#: inc/admin/class-ample-admin.php:465
+msgid "Custom Widgets"
+msgstr "Προσαρμοσμένα Widgets"
+
+#: inc/admin/class-ample-admin.php:460
+msgid "WPML/Polylang Compatible"
+msgstr "Συμβατό με WPML/Polylang"
+
+#: inc/admin/class-ample-admin.php:455
+msgid "Woocommerce archive page Layout"
+msgstr "Σελίδα αρχείο WooCommerce διάταξης"
+
+#: inc/admin/class-ample-admin.php:450
+msgid "Woocommerce Compatible"
+msgstr "WooCommerce συμβατό"
+
+#: inc/admin/class-ample-admin.php:445
+msgid "Translation Ready"
+msgstr "Μετάφραση Έτοιμη"
+
+#: inc/admin/class-ample-admin.php:442
+msgid "Social Links + Header text option"
+msgstr "Κοινωνικές Συνδέσεις + κεφαλίδα επιλογή κειμένου"
+
+#: inc/admin/class-ample-admin.php:440
+msgid "Additional Top Header"
+msgstr "Επικεφαλίδα"
+
+#: inc/admin/class-ample-admin.php:435
+msgid "Social Links"
+msgstr "Κοινωνικά Δίκτυα"
+
+#: inc/admin/class-ample-admin.php:432
+msgid "5"
+msgstr "5"
+
+#: inc/admin/class-ample-admin.php:431
+msgid "1"
+msgstr "1"
+
+#: inc/admin/class-ample-admin.php:425
+msgid "Font Size options"
+msgstr "Επιλογές Μεγέθους Γραμματοσειράς"
+
+#: inc/admin/class-ample-admin.php:422
+msgid "Primary color option & 35+"
+msgstr "Πρωτεύον χρώμα επιλογή & 35 +"
+
+#: inc/admin/class-ample-admin.php:421
+msgid "Primary Color Option"
+msgstr "Πρωτεύον Χρώμα Επιλογή"
+
+#: inc/admin/class-ample-admin.php:420
+msgid "Color Palette"
+msgstr "Παλέτα χρωμάτων"
+
+#: inc/admin/class-ample-admin.php:417
+msgid "600+"
+msgstr "600+"
+
+#: inc/admin/class-ample-admin.php:415
+msgid "Google Fonts"
+msgstr "Γραμματοσειρές Google"
+
+#: inc/admin/class-ample-admin.php:412
+msgid "Slides type, duration & delay time"
+msgstr "Διαφάνειες τύπος, διάρκεια & καθυστέρηση χρόνου"
+
+#: inc/admin/class-ample-admin.php:410
+msgid "Slider Settings"
+msgstr "Ρυθμίσεις Slider"
+
+#: inc/admin/class-ample-admin.php:407
+msgid "Unlimited Slides"
+msgstr "Απεριόριστα Slides"
+
+#: inc/admin/class-ample-admin.php:406
+msgid "4 Slides"
+msgstr "4 Slides"
+
+#: inc/admin/class-ample-admin.php:400
+msgid "Use as One Page theme"
+msgstr "Χρήση ως Μιας Σελίδας Θέμα"
+
+#: inc/admin/class-ample-admin.php:397
+msgid "$69"
+msgstr "$69"
+
+#: inc/admin/class-ample-admin.php:396
+msgid "Free"
+msgstr "Δωρεάν"
+
+#: inc/admin/class-ample-admin.php:395
+msgid "Price"
+msgstr "Τιμή"
+
+#: inc/admin/class-ample-admin.php:390 inc/demo-config.php:26
+msgid "Ample Pro"
+msgstr "Ample Pro"
+
+#: inc/admin/class-ample-admin.php:388
+msgid "Features"
+msgstr "Χαρακτηριστικά"
+
+#: inc/admin/class-ample-admin.php:365
+msgid "WPML"
+msgstr "WPML"
+
+#: inc/admin/class-ample-admin.php:362 inc/admin/class-ample-admin.php:366
+msgid "Fully Compatible in Pro Version"
+msgstr "Πλήρως-συμβατό σύστημα σε έκδοση Pro"
+
+#: inc/admin/class-ample-admin.php:361
+msgid "Polylang"
+msgstr "Polylang"
+
+#: inc/admin/class-ample-admin.php:358
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: inc/admin/class-ample-admin.php:355
+msgid "WP-PageNavi"
+msgstr "WP-PageNavi"
+
+#: inc/admin/class-ample-admin.php:352
+msgid "Contact Form 7"
+msgstr "Contact Form 7"
+
+#: inc/admin/class-ample-admin.php:348
+msgid "Easy Social Sharing"
+msgstr "Εύκολη Κοινοποίηση στα Κοινωνικά Δίκτυα"
+
+#: inc/admin/class-ample-admin.php:345 inc/admin/class-ample-admin.php:349
+msgid " by ThemeGrill"
+msgstr " από το ThemeGrill"
+
+#: inc/admin/class-ample-admin.php:344
+msgid "Social Icons"
+msgstr "Εικονίδια κοινωνικής δικτύωσης"
+
+#: inc/admin/class-ample-admin.php:341
+msgid "This theme recommends following plugins:"
+msgstr "Αυτό το θέμα συνιστά τα ακόλουθα πρόσθετα:"
+
+#: inc/admin/class-ample-admin.php:286
+msgid "View changelog below:"
+msgstr "Δείτε την παρακάτω λίστα αλλαγών:"
+
+#: inc/admin/class-ample-admin.php:269
+msgid "Go to Dashboard"
+msgstr "Μεταβείτε στον Πίνακα ελέγχου"
+
+#: inc/admin/class-ample-admin.php:269
+msgid "Go to Dashboard &rarr; Home"
+msgstr "Μεταβείτε στον Πίνακα ελέγχου \t Αρχική σελίδα"
+
+#: inc/admin/class-ample-admin.php:266
+msgid "Return to Dashboard &rarr; Updates"
+msgstr "Επιστροφή στον πίνακα ελέγχου \t Ενημερώσεις"
+
+#: inc/admin/class-ample-admin.php:266
+msgid "Return to Updates"
+msgstr "Επιστροφή στις Ενημερώσεις"
+
+#: inc/admin/class-ample-admin.php:250
+msgid "Click below to translate this theme into your own language."
+msgstr "Κάντε κλικ παρακάτω για να μεταφράσετε αυτό το θέμα στη δική σας γλώσσα."
+
+#: inc/admin/class-ample-admin.php:246 inc/admin/class-ample-admin.php:254
+msgid "Translate"
+msgstr "Μετάφρασε"
+
+#: inc/admin/class-ample-admin.php:237
+msgid "Please send it via our sales contact page."
+msgstr "Στείλτε μας μέσω της σελίδας επαφών πωλήσεων."
+
+#: inc/admin/class-ample-admin.php:236
+msgid "Got sales related question?"
+msgstr "Έχετε σχετική ερώτηση σχετικά με τις πωλήσεις;"
+
+#: inc/admin/class-ample-admin.php:229 inc/admin/class-ample-admin.php:383
+msgid "Upgrade to PRO version for more exciting features."
+msgstr "Αναβαθμίστε την έκδοση PRO για πιο συναρπαστικές λειτουργίες."
+
+#: inc/admin/class-ample-admin.php:228
+msgid "Need more features?"
+msgstr "Χρειάζεστε περισσότερες δυνατότητες;"
+
+#: inc/admin/class-ample-admin.php:223 inc/admin/class-ample-admin.php:505
+msgid "Support"
+msgstr "Υποστήριξη"
+
+#: inc/admin/class-ample-admin.php:221
+msgid "Please put it in our dedicated support forum."
+msgstr "Παρακαλούμε να το τοποθετήσετε στο αποκλειστικό μας φόρουμ υποστήριξης."
+
+#: inc/admin/class-ample-admin.php:220
+msgid "Got theme support question?"
+msgstr "Έχετε ερώτηση σχετικά με την υποστήριξη θέματος;"
+
+#: inc/admin/class-ample-admin.php:213
+msgid "Please view our documentation page to setup the theme."
+msgstr "Παρακαλώ δείτε τη σελίδα τεκμηρίωσης για να ρυθμίσετε το θέμα."
+
+#: inc/admin/class-ample-admin.php:207
+msgid "Customize"
+msgstr "Προσαρμόστε"
+
+#: inc/admin/class-ample-admin.php:205
+msgid "All Theme Options are available via Customize screen."
+msgstr "Όλες οι Επιλογές Θέματος είναι διαθέσιμες μέσω της οθόνης Προσαρμογή."
+
+#: inc/admin/class-ample-admin.php:204
+msgid "Theme Customizer"
+msgstr "Προσαρμογέας Θέματος"
+
+#: inc/admin/class-ample-admin.php:170
+msgid "Changelog"
+msgstr "Αρχείο Μεταβολών"
+
+#: inc/admin/class-ample-admin.php:162
+msgid "Free Vs Pro"
+msgstr "Δωρεάν Vs Pro"
+
+#: inc/admin/class-ample-admin.php:154
+msgid "Supported Plugins"
+msgstr "Υποστηριζόμενα Plugins"
+
+#: inc/admin/class-ample-admin.php:98
+msgid "Get started with Ample"
+msgstr "Ξεκινήστε με το Ample"
+
+#: inc/admin/class-ample-admin.php:96
+msgid "Welcome! Thank you for choosing ample! To fully take advantage of the best our theme can offer please make sure you visit our %swelcome page%s."
+msgstr "Καλώς ήλθατε! Σας ευχαριστώ που επιλέξατε ample! Για να επωφεληθείτε πλήρως από το καλύτερο που μπορεί να προσφέρει το θέμα μας, βεβαιωθείτε ότι έχετε επισκεφθεί την σελίδα μας %swelcome page%s."
+
+#: inc/admin/class-ample-admin.php:95
+msgid "Dismiss"
+msgstr "Παράβλεψη"
+
+#: inc/admin/class-ample-admin.php:81
+msgid "Cheatin&#8217; huh?"
+msgstr "Προσπαθείς να κλέψεις;"
+
+#: inc/admin/class-ample-admin.php:77
+msgid "Action failed. Please refresh the page and retry."
+msgstr "Η ενέργεια απέτυχε. Ανανεώστε τη σελίδα και δοκιμάστε ξανά."
+
+#: inc/admin/class-ample-admin.php:36 inc/admin/class-ample-admin.php:118
+msgid "About"
+msgstr "Σχετικά"
+
+#: inc/admin/class-ample-admin.php:137 inc/admin/class-ample-admin.php:231
+#: inc/customizer.php:700
+msgid "View PRO version"
+msgstr "Προβολή έκδοσης PRO"
+
+#: inc/admin/class-ample-admin.php:133
+msgid "Theme Info"
+msgstr "Πληροφορίες θέματος"
+
+#: inc/functions.php:487 inc/related-posts.php:61
+msgid "<span class=\"entry-date\"><i class=\"fa fa-aw fa-calendar-o\"></i> <a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\">%3$s</a></span>"
+msgstr "<span class=\"entry-date\"><i class=\"fa fa-aw fa-calendar-o\"></i> <a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\">%3$s</a></span>"
+
+#. Template Name of the theme
+#: inc/admin/class-ample-admin.php:430
+msgid "Business Template"
+msgstr "Επιχειρηματικό πρότυπο"
+
+#. Template Name of the theme
+msgid "Contact Page Template"
+msgstr "Πρότυπο σελίδας επαφής"
+
+#: sidebar.php:30 sidebar-left.php:19
+msgid "This is an example widget to show how the Left sidebar looks by default. You can add custom widgets from the %swidgets screen%s in the admin. If custom widgets are added then this will be replaced by those widgets"
+msgstr "Αυτό είναι ένα παράδειγμα widget για να δείξει πώς φαίνεται η προεπιλεγμένη αριστερή πλαϊνή μπάρα. Μπορείτε να προσθέσετε προσαρμοσμένα γραφικά στοιχεία από την %swidgets screen%s στο διαχειριστή. Εάν προστεθούν προσαρμοσμένα γραφικά στοιχεία, αυτό θα αντικατασταθεί από αυτά τα γραφικά στοιχεία"
+
+#: sidebar.php:29 sidebar-left.php:18
+msgid "Example Widget"
+msgstr "Παράδειγμα Widget"
+
+#: sidebar.php:25
+msgid "Right"
+msgstr "Δεξιά"
+
+#: sidebar.php:23 inc/admin/class-ample-admin.php:239
+msgid "Contact Page"
+msgstr "Σελίδα Επικοινωνίας"
+
+#: inc/admin/class-ample-admin.php:135
+msgid "View Demo"
+msgstr "Δες το Demo"
+
+#: searchform.php:13
+msgid "Search"
+msgstr "Αναζήτηση"
+
+#: inc/admin/class-ample-admin.php:139
+msgid "Rate this theme"
+msgstr "Βαθμολογήστε αυτό το θέμα"
+
+#: inc/customizer.php:576
+msgid "Category to hide from Blog"
+msgstr "Κατηγορία για απόκρυψη από το Blog"
+
+#: inc/customizer.php:589
+msgid "Select a Category or Categories to hide its posts from Blog page."
+msgstr "Επιλέξτε μια κατηγορία ή κατηγορίες για να αποκρύψετε τις δημοσιεύσεις της από τη σελίδα Blog."
+
+#: inc/admin/class-ample-admin.php:212 inc/admin/class-ample-admin.php:215
+msgid "Documentation"
+msgstr "Τεκμηρίωση"
+
+#: inc/customizer.php:513
+msgid "Additional"
+msgstr "Επιπλέον"
+
+#: inc/customizer.php:500
+msgid "Enter link to redirect"
+msgstr "Εισαγωγή συνδέσμου για ανακατεύθυνση"
+
+#: inc/customizer.php:485
+msgid "Enter button text"
+msgstr "Εισαγάγετε κείμενο κουμπιού"
+
+#: inc/customizer.php:471
+msgid "Enter title for this slide"
+msgstr "Εισαγάγετε τον τίτλο για αυτήν τη διαφάνεια"
+
+#: inc/customizer.php:426
+msgid "Check to activate slider."
+msgstr "Επιλέξτε για ενεργοποίηση slider."
+
+#: inc/customizer.php:411
+msgid "Activate slider"
+msgstr "Ενεργοποίηση slider"
+
+#: inc/customizer.php:456
+msgid "Upload image"
+msgstr "Φόρτωση Εικόνας"
+
+#: inc/customizer.php:442
+msgid "Slider #%1$s"
+msgstr "Slider #%1$s"
+
+#: inc/customizer.php:271
+msgid "Select default layout. This layout will be reflected in whole site archives, search etc. The layout for a single post and page can be controlled from below options."
+msgstr "Επιλέξτε προεπιλεγμένη διάταξη. Αυτή η διάταξη θα επηρεάσει γενικές περιοχές της σελίδας όπως αρχείο, αναζήτηση κλπ. Η διάταξη των μεμονωμένων άρθρων και σελίδων μπορεί να ρυθμιστεί στις παρακάτω επιλογές."
+
+#: inc/customizer.php:285
+msgid "Default layout for pages only"
+msgstr "Προεπιλεγμένη διάταξη για σελίδες μόνο"
+
+#: inc/customizer.php:299
+msgid "Select default layout for pages. This layout will be reflected in all pages unless unique layout is set for specific page."
+msgstr "Επιλέξτε προεπιλεγμένη διάταξη για σελίδες. Αυτή η διάταξη θα επηρεάσει όλες τις σελίδες του ιστοχώρου εκτός εάν οριστεί διαφορετική διάταξη σε συγκεκριμένη σελίδα."
+
+#: inc/customizer.php:313
+msgid "Default layout for single posts only"
+msgstr "Προεπιλεγμένη διάταξη για άρθρα μόνο"
+
+#: inc/customizer.php:327
+msgid "Select default layout for single posts. This layout will be reflected in all single posts unless unique layout is set for specific post."
+msgstr "Επιλέξτε προεπιλεγμένη διάταξη για μεμονωμένα άρθρα. Αυτή η διάταξη θα επηρεάσει όλα τα μεμονωμένα άρθρα του ιστοχώρου εκτός εάν οριστεί διαφορετική διάταξη σε συγκεκριμένα άρθρα."
+
+#: inc/customizer.php:343
+msgid "Primary color option"
+msgstr "Πρωτεύον χρώμα"
+
+#: inc/customizer.php:379
+msgid "Custom CSS"
+msgstr "Προσαρμοσμένο CSS"
+
+#: inc/customizer.php:355
+msgid "This will reflect in links, buttons and many others. Choose a color to match your site."
+msgstr "Αυτό θα επηρεάσει συνδέσμους, κουμπιά και πολλά άλλα. Διαλέξτε ένα χρώμα να ταιριάζει στη σελίδα σας."
+
+#: inc/admin/class-ample-admin.php:405 inc/customizer.php:406
+msgid "Slider"
+msgstr "Μηχανισμός κύλισης"
+
+#: inc/customizer.php:392
+msgid "Write your custom css."
+msgstr "Γράψτε το δικό σας CSS."
+
+#: inc/customizer.php:110
+msgid "Choose Background Color for Header Title Bar"
+msgstr "Επιλέξτε Χρώμα Φόντου για Γραμμή Τίτλου Κεφαλίδας"
+
+#: inc/customizer.php:125
+msgid "Choose Text Color for Header Title Bar"
+msgstr "Επιλέξτε Χρώμα Κειμένου για τη Γραμμή Τίτλου Κεφαλίδας"
+
+#: inc/customizer.php:95
+msgid "Upload Background Image for Header Title Bar."
+msgstr "Μεταφόρτωση Εικόνας Φόντου για Γραμμή Τίτλου Κεφαλίδας."
+
+#: inc/customizer.php:82
+msgid "Header Title Bar Background Image"
+msgstr "Γραμμή Τίτλου Κεφαλίδας Εικόνας φόντου"
+
+#: inc/customizer.php:50
+msgid "Choose the option that you want."
+msgstr "Επιλέξτε την επιλογή που θέλετε."
+
+#: inc/customizer.php:150
+msgid "Position Below: Display the Header image just below the site title and main menu part."
+msgstr "Θέση από κάτω: Εμφάνισε την εικόνα κεφαλίδας ακριβώς κάτω από τον τίτλο του ιστοχώρου και το κυρίως μενού."
+
+#: inc/customizer.php:149
+msgid "Position Above (Default): Display the Header image just above the site title and main menu part."
+msgstr "Θέση από πάνω (Προεπιλογή): Εμφάνισε την εικόνα κεφαλίδας ακριβώς πάνω από τον τίτλο του ιστοχώρου και το κυρίως μενού."
+
+#: inc/customizer.php:146
+msgid "Choose top header image display position."
+msgstr "Επιλέξτε τη θέση της εικόνας κεφαλίδας."
+
+#: inc/customizer.php:133
+msgid "Header Image Position"
+msgstr "Θέση Εικόνας Κεφαλίδας"
+
+#: inc/customizer.php:166
+msgid "Site Layout"
+msgstr "Διάταξη του site"
+
+#: inc/customizer.php:159
+msgid "Design"
+msgstr "Σχέδιο"
+
+#: inc/customizer.php:180
+msgid "Choose your site layout. The change is reflected in whole site."
+msgstr "Επιλέξτε τη διάταξη ιστοχώρου. Η αλλαγή θα επηρεάσει όλη τη σελίδα."
+
+#: inc/customizer.php:184
+msgid "Boxed layout"
+msgstr "Boxed διάταξη"
+
+#: inc/customizer.php:183
+msgid "Wide layout"
+msgstr "Wide διάταξη"
+
+#: inc/customizer.php:257
+msgid "Default layout"
+msgstr "Προεπιλεγμένη διάταξη"
+
+#: inc/customizer.php:37
+msgid "Show"
+msgstr "Προβολή"
+
+#: inc/customizer.php:53
+msgid "Header Logo Only"
+msgstr "Μόνο Λογότυπο Κεφαλίδας"
+
+#: inc/customizer.php:56
+msgid "Disable"
+msgstr "Απενεργοποίηση"
+
+#: inc/customizer.php:55
+msgid "Show Both"
+msgstr "Εμφάνιση και των δύο"
+
+#: inc/customizer.php:54
+msgid "Header Text Only"
+msgstr "Μόνο Κείμενο Κεφαλίδας"
+
+#: inc/customizer.php:30
+msgid "Header"
+msgstr "Κεφαλίδα"
+
+#: no-results.php:25
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Φαίνεται ότι δεν βρήκαμε αυτό που ζητούσατε. Αν θέλετε, δοκιμάστε την αναζήτηση."
+
+#: no-results.php:20
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Λυπάμαι, αλλά τίποτα δεν βρέθηκε που ταιριάζει στους όρους αναζήτησης. Παρακαλώ προσπαθήστε ξανά με άλλες λέξεις κλειδιά."
+
+#: no-results.php:16
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Έτοιμοι να δημοσιεύσετε το πρώτο σας άρθρο; <a href=\"%1$s\">Ξεκινήστε εδώ</a>."
+
+#: navigation.php:45
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: navigation.php:44
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: navigation.php:37
+msgid "Next &rarr;"
+msgstr "Επόμενο &rarr;"
+
+#: navigation.php:36
+msgid "&larr; Previous"
+msgstr "← Προηγούμενη"
+
+#: navigation.php:25
+msgid "Next &raquo;"
+msgstr "Επόμενη &raquo;"
+
+#: inc/widgets/class-ample-featured-posts-widget.php:47
+msgid "Show latest Posts"
+msgstr "Εμφάνιση τελευταίων άρθρων"
+
+#: inc/widgets/class-ample-featured-posts-widget.php:15
+msgid "TG: Featured Posts"
+msgstr "TG: Προτεινόμενα μηνύματα"
+
+#: inc/widgets/class-ample-featured-posts-widget.php:11
+msgid "Display latest posts or posts of specific category"
+msgstr "Εμφάνιση τελευταίων δημοσιεύσεων ή αναρτήσεων συγκεκριμένης κατηγορίας"
+
+#: inc/widgets/class-ample-portfolio-widget.php:100
+msgid "Note: Link to redirect. If empty than it will redirect to selected category."
+msgstr "Σημείωση: Σύνδεση για ανακατεύθυνση. Αν είναι άδειο, θα ανακατευθύνει σε επιλεγμένη κατηγορία."
+
+#: inc/widgets/class-ample-call-to-action-widget.php:69
+#: inc/widgets/class-ample-portfolio-widget.php:97
+msgid "Button Redirect Link:"
+msgstr "Σύνδεσμος ανακατεύθυνσης κουμπιού:"
+
+#: inc/widgets/class-ample-call-to-action-widget.php:65
+#: inc/widgets/class-ample-portfolio-widget.php:93
+msgid "Button Text:"
+msgstr "Κείμενο Κουμπιού:"
+
+#: inc/widgets/class-ample-featured-posts-widget.php:49
+msgid "Show posts from a category"
+msgstr "Εμφάνιση αναρτήσεων από μια κατηγορία"
+
+#: inc/widgets/class-ample-call-to-action-widget.php:10
+msgid "Use this widget to show the call to action section."
+msgstr "Χρησιμοποιήστε αυτό το Widget για να εμφανίσετε το τμήμα \"κλήση για δράση\"."
+
+#: inc/widgets/class-ample-call-to-action-widget.php:14
+msgid "TG: Call To Action Widget"
+msgstr "TG: Widget Κλήση για Δράση"
+
+#: inc/widgets/class-ample-call-to-action-widget.php:61
+msgid "Call to Action Main Text"
+msgstr "Κλήση για Δράση Κυρίως Κείμενο"
+
+#: navigation.php:24
+msgid "&laquo; Previous"
+msgstr "&laquo; Προηγούμενη"
+
+#: inc/widgets/class-ample-call-to-action-widget.php:59
+#: inc/widgets/class-ample-portfolio-widget.php:67
+msgid "OTHER SETTINGS :"
+msgstr "ΑΛΛΕΣ ΡΥΘΜΙΣΕΙΣ:"
+
+#: inc/widgets/class-ample-portfolio-widget.php:83
+#: inc/widgets/class-ample-featured-posts-widget.php:54
+msgid "Select category"
+msgstr "Επιλογή κατηγορίας"
+
+#: inc/widgets/class-ample-portfolio-widget.php:78
+#: inc/widgets/class-ample-featured-posts-widget.php:42
+msgid "Number of posts to display:"
+msgstr "Αριθμός δημοσιεύσεων προς προβολή:"
+
+#: inc/widgets/class-ample-call-to-action-widget.php:56
+#: inc/widgets/class-ample-portfolio-widget.php:64
+msgid "Fixed"
+msgstr "Σταθερή"
+
+#: inc/widgets/class-ample-call-to-action-widget.php:36
+#: inc/widgets/class-ample-portfolio-widget.php:43
+msgid "Background Color:"
+msgstr "Χρώμα φόντου:"
+
+#: inc/widgets/class-ample-call-to-action-widget.php:35
+#: inc/widgets/class-ample-portfolio-widget.php:42
+msgid "DESIGN SETTINGS :"
+msgstr "ΡΥΘΜΙΣΕΙΣ ΣΧΕΔΙΑΣΜΟΥ:"
+
+#: inc/widgets/class-ample-portfolio-widget.php:15
+msgid "TG: Portfolio"
+msgstr "TG: Χαρτοφυλάκιο"
+
+#: inc/widgets/class-ample-portfolio-widget.php:11
+msgid "Display portfolio by using specific category"
+msgstr "Εμφάνιση χαρτοφυλακίου χρησιμοποιώντας συγκεκριμένη κατηγορία"
+
+#: inc/widgets/class-ample-service-widget.php:71
+msgid "Icon Class:"
+msgstr "Κατηγορία Εικονιδίου:"
+
+#: inc/widgets/class-ample-call-to-action-widget.php:55
+#: inc/widgets/class-ample-portfolio-widget.php:63
+msgid "Scroll"
+msgstr "Κυλιόμενη"
+
+#: inc/widgets/class-ample-call-to-action-widget.php:54
+#: inc/widgets/class-ample-portfolio-widget.php:62
+msgid "Background attachment:"
+msgstr "Συννημένο φόντου:"
+
+#: inc/widgets/class-ample-service-widget.php:65
+msgid "Page"
+msgstr "Σελίδα"
+
+#: inc/widgets/class-ample-service-widget.php:60
+msgid "Select the page to display Title and Excerpt."
+msgstr "Επιλέξτε τη σελίδα για να εμφανίσετε το τίτλο και το απόσπασμα."
+
+#: inc/widgets/class-ample-service-widget.php:55
+msgid "<a href=\"%s\" target=\"_blank\">Refer here</a> For Icon Class"
+msgstr "<a href=\"%s\" target=\"_blank\">Ανατρέξτε εδώ</a> για την κατηγορία εικονιδίων"
+
+#: inc/widgets/class-ample-service-widget.php:40
+msgid "Image:"
+msgstr "Εικόνα:"
+
+#: inc/widgets/class-ample-portfolio-widget.php:74
+#: inc/widgets/class-ample-featured-posts-widget.php:38
+#: inc/widgets/class-ample-service-widget.php:36
+msgid "Description"
+msgstr "Περιγραφή"
+
+#: inc/widgets/widgets.php:38
+msgid "Business Sidebar"
+msgstr "Business Sidebar"
+
+#: inc/widgets/widgets.php:49
+msgid "Shows widgets on Error 404 page."
+msgstr "Εμφάνιση Widgets στη στήλη σελίδας σφάλματος 404."
+
+#: inc/widgets/widgets.php:47
+msgid "Error 404 Page Sidebar"
+msgstr "Πλευρική Στήλη Σελίδας Λάθους 404"
+
+#: inc/widgets/widgets.php:40
+msgid "Shows widgets on Business Page Template."
+msgstr "Εμφάνιση widgets στο Πρότυπο Σελίδας Business."
+
+#: inc/widgets/widgets.php:58
+msgid "Shows widgets on Right/Left side of Contact page."
+msgstr "Δείχνει widgets στην δεξιά/αριστερά πλευρά του σελίδα επικοινωνίας."
+
+#: inc/widgets/widgets.php:56
+msgid "Contact Page Sidebar"
+msgstr "Πλευρική Στήλη Σελίδας Επικοινωνίας"
+
+#: inc/widgets/widgets.php:92
+msgid "Footer Sidebar4"
+msgstr "Υποσέλιδο Sidebar4"
+
+#: inc/widgets/widgets.php:67 inc/widgets/widgets.php:76
+#: inc/widgets/widgets.php:85 inc/widgets/widgets.php:94
+msgid "Shows widgets on footer."
+msgstr "Εμφάνιση widgets στο υποσέλιδο."
+
+#: inc/widgets/widgets.php:65
+msgid "Footer Sidebar1"
+msgstr "Υποσέλιδο Πλαϊνή Γραμμή1"
+
+#: inc/widgets/widgets.php:83
+msgid "Footer Sidebar3"
+msgstr "Υποσέλιδο Πλαϊνή Γραμμή3"
+
+#: inc/widgets/widgets.php:74
+msgid "Footer Sidebar2"
+msgstr "Υποσέλιδο Πλαϊνή Γραμμή2"
+
+#: inc/widgets/class-ample-portfolio-widget.php:70
+#: inc/widgets/class-ample-featured-posts-widget.php:35
+#: inc/widgets/class-ample-service-widget.php:33
+msgid "Title:"
+msgstr "Τίτλος:"
+
+#: inc/widgets/class-ample-service-widget.php:14
+msgid "TG: Service Widget"
+msgstr "TG: Υπηρεσία Widget"
+
+#: inc/widgets/class-ample-service-widget.php:10
+msgid "Show your some pages as services."
+msgstr "Δείχνουν κάποιες σελίδες σας ως υπηρεσίες."
+
+#: inc/widgets/widgets.php:31
+msgid "Shows widgets at left side."
+msgstr "Δείχνει τα γραφικά στοιχεία στην αριστερή πλευρά."
+
+#: inc/widgets/widgets.php:22
+msgid "Shows widgets at right side."
+msgstr "Δείχνει τα γραφικά στοιχεία στην δεξιά πλευρά."
+
+#: inc/header-functions.php:175
+msgid "You are here:"
+msgstr "Είστε εδώ:"
+
+#: inc/header-functions.php:147
+msgid "Search Results For: %s"
+msgstr "Αποτελέσματα για %s"
+
+#: inc/header-functions.php:145
+msgid "Page NOT Found"
+msgstr "Η σελίδα δεν υπάρχει"
+
+#: inc/header-functions.php:141
+msgid "Archives"
+msgstr "Αρχείο"
+
+#: inc/header-functions.php:134
+msgid "Year: %s"
+msgstr "Έτος: %s"
+
+#: inc/header-functions.php:131
+msgid "Month: %s"
+msgstr "Μήνας: %s"
+
+#: inc/header-functions.php:128
+msgid "Day: %s"
+msgstr "Ημέρα: %s"
+
+#: inc/header-functions.php:120
+msgid "Author: %s"
+msgstr "Συντάκτης: %s"
+
+#: inc/functions.php:553
+msgid "Reply"
+msgstr "Απάντηση"
+
+#: inc/functions.php:547
+msgid "Your comment is awaiting moderation."
+msgstr "Το σχόλιό σας αναμένει έγκριση."
+
+#: inc/functions.php:539
+msgid "%1$s at %2$s"
+msgstr "%1$s στο %2$s"
+
+#: inc/functions.php:536
+msgid "Post author"
+msgstr "Συντάκτης άρθρου"
+
+#: inc/functions.php:521
+msgid "(Edit)"
+msgstr "(Διόρθωση)"
+
+#: inc/functions.php:521
+msgid "Pingback:"
+msgstr "Πίνγκμπακ:"
+
+#: inc/functions.php:498
+msgid "Comments Off"
+msgstr "Σχόλια κλειστά"
+
+#: inc/functions.php:498
+msgid "% Comments"
+msgstr "% σχόλια"
+
+#: inc/functions.php:498
+msgid "1 Comment"
+msgstr "1 σχόλιο"
+
+#: inc/functions.php:498
+msgid "No Comments"
+msgstr "Χωρίς σχόλια"
+
+#: inc/functions.php:136
+msgid "Powered by %s."
+msgstr "Κατασκευασμένο με %s."
+
+#: inc/functions.php:136
+msgid "Copyright &copy; %1$s %2$s."
+msgstr "Copyright &copy; %1$s %2$s."
+
+#: inc/functions.php:136
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+"Θέμα: \n"
+"%1$s από %2$s."
+
+#: inc/functions.php:132
+msgid "WordPress"
+msgstr "WordPress"
+
+#: inc/admin/meta-boxes.php:43
+msgid "No Sidebar Full Width"
+msgstr "Μέγιστο πλάτος χωρίς πλευρική στήλη"
+
+#: inc/admin/meta-boxes.php:48
+msgid "No Sidebar Content Centered"
+msgstr "Χωρίς πλευρική στήλη, περιεχόμενο με  κεντρική στοίχηση"
+
+#: inc/admin/meta-boxes.php:53
+msgid "Both Sidebar"
+msgstr "Δύο Πλευρικές μπάρες"
+
+#: inc/widgets/widgets.php:29 inc/admin/meta-boxes.php:38
+msgid "Left Sidebar"
+msgstr "Αριστερή πλευρική στήλη"
+
+#: inc/widgets/widgets.php:20 inc/admin/meta-boxes.php:33
+msgid "Right Sidebar"
+msgstr "Δεξιά πλευρική στήλη"
+
+#: inc/admin/meta-boxes.php:16 inc/admin/meta-boxes.php:18
+msgid "Select Layout"
+msgstr "Επέλεξε εμφάνιση"
+
+#: inc/admin/meta-boxes.php:28
+msgid "Default Layout"
+msgstr "Προεπιλεγμένη διάταξη"
+
+#: functions.php:84
+msgid "Footer Menu"
+msgstr "Μενού υποσέλιδου"
+
+#: functions.php:83
+msgid "Primary Menu"
+msgstr "Κύριο μενού"
+
+#: content-single.php:24
+msgid "Tagged on: "
+msgstr "Ετικέτες: "
+
+#: content.php:48 inc/widgets/class-ample-featured-posts-widget.php:164
+msgid "Read more"
+msgstr "Περισσότερα"
+
+#: content-single.php:35 content-page.php:26
+msgid "Edit"
+msgstr "Αλλαγή"
+
+#: content-single.php:29 content-page.php:20
+msgid "Pages:"
+msgstr "Σελίδες:"
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr "Τα σχόλια είναι κλειστά."
+
+#: comments.php:40 comments.php:57
+msgid "Newer Comments &rarr;"
+msgstr "Πιο πρόσφατα σχόλια &rarr;"
+
+#: comments.php:39 comments.php:56
+msgid "&larr; Older Comments"
+msgstr "← Παλαιότερα σχόλια"
+
+#: comments.php:38 comments.php:55
+msgid "Comment navigation"
+msgstr "Πλοήγηση σχολίων"
+
+#: 404.php:26
+msgid "It looks like nothing was found at this location. Try the search below."
+msgstr "Όπως φαίνεται δεν βρέθηκε κάτι εδώ. Δοκιμάστε την αναζήτηση παρακάτω."
+
+#: comments.php:31
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Ένα σχόλιο στο &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s σχόλια στο &ldquo;%2$s&rdquo;"
+
+#: 404.php:22
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ωπα! Αυτή η σελίδα δε βρέθηκε."
+
+#. Theme URI of the theme
+msgid "https://themegrill.com/themes/ample/"
+msgstr "https://themegrill.com/themes/ample/"
+
+#. Author URI of the theme
+msgid "https://themegrill.com"
+msgstr "https://themegrill.com"
+
+#. Author of the theme
+#: inc/functions.php:134
+msgid "ThemeGrill"
+msgstr "ThemeGrill"
